@@ -171,15 +171,10 @@ def paljon_siirrytaan(temp_array):
 
 
 def run():
-
+    # List of folders 
     subfolder = []
     subfolder.append('Roulette')
-    subfolder.append('Immersive_Roulette')
-    subfolder.append('SpeedRoulette')
-    subfolder.append('Unibet_Roulette')
-    subfolder.append('Unibet_Roulette_A')
-    subfolder.append('Unibet_Francais')
-    subfolder.append('SvenskRoulette')
+
     
     
     # Threshold for binarizing the image
